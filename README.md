@@ -1,4 +1,4 @@
-KM-Laser Bundle
+Maker Station - Laser Tools
 ===============
 ```diff
 - FOR INKSCAPE VERSIONS 0.91 OR EARLIER SEE THE BRANCH pre_0.92
